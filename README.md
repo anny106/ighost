@@ -1,2 +1,2 @@
-# ighost
+# 每日更新
 dfgdfgdfgdfg
