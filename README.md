@@ -1,6 +1,6 @@
 # 套图资源
 提供两种方法下载资源<br>
-第一种方法提供8个压缩包, 下载速度快, 如果网站打不开, 那么更换第二种方法<br>
+第一种方法提供8个压缩包, 下载速度快. 如果网站打不开, 那么更换第二种方法<br>
 方法1:<br>
 1.https://www84.zippyshare.com/v/UEhmhLcm/file.html<br>
 2.https://www77.zippyshare.com/v/r093SFbf/file.html<br>
