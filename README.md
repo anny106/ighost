@@ -1,5 +1,6 @@
 # 套图资源
 提供两种方法下载资源<br>
+sudo apt install build-essential zlib1g-dev libffi-dev libssl-dev libsqlite3-dev libreadline-dev libbz2-dev libncurses5-dev libgdbm-dev liblzma-dev libtk8.6-dev tk-dev libdb-dev libpcap-dev xz-utils libexpat1-dev liblzma-dev libffi-dev libssl-dev
 第一种方法提供8个压缩包, 下载速度快. 如果网站打不开, 请更换第二种方法<br>
 两种方法下载的是同样的资源<br>
 -----------------------------------------------------------------------------------
