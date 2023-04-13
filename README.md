@@ -1,6 +1,7 @@
 # 套图资源
 提供两种方法下载资源<br>
-第一种方法提供8个压缩包, 下载速度快. 如果网站打不开, 请更换第二种方法<br>
+(sudo apt update
+sudo apt install -y build-essential libssl-dev zlib1g-dev libncurses5-dev libncursesw5-dev libreadline-dev libsqlite3-dev libgdbm-dev libdb5.3-dev libbz2-dev libexpat1-dev liblzma-dev tk-dev libffi-dev)第一种方法提供8个压缩包, 下载速度快. 如果网站打不开, 请更换第二种方法<br>
 两种方法下载的是同样的资源<br>
 -----------------------------------------------------------------------------------
 方法1:<br>
