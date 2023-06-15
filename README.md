@@ -1,20 +1,11 @@
 # 套图资源
-提供两种方法下载资源<br>
-(sudo apt update
-sudo apt install -y build-essential libssl-dev zlib1g-dev libncurses5-dev libncursesw5-dev libreadline-dev libsqlite3-dev libgdbm-dev libdb5.3-dev libbz2-dev libexpat1-dev liblzma-dev tk-dev libffi-dev)第一种方法提供8个压缩包, 下载速度快. 如果网站打不开, 请更换第二种方法<br>
-两种方法下载的是同样的资源<br>
+aaa<br>
 -----------------------------------------------------------------------------------
-方法1:<br>
-1.https://www92.
+bbb<br>
 -----------------------------------------------------------------------------------
-方法2:<br>
-百度网盘<br>
-链接：https://pan.baidu.com/s/1gqSK1W5qgCQDX4EOswI6GQ<br>
-提取码：scma<br>
+ccc:<br>
 -----------------------------------------------------------------------------------
 百度网盘<br>
-链接：https://pan.baidu.com/s/1GO4qJeMH1PeJjLX0qu8FSw<br>
-提取码：****<br>
 <table>
   <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/3F7182A1D2D99B3AE21C39A11F8A44C9.png" alt="Image 1"></td>
