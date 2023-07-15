@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/1.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/7.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/15.jpg" alt="Image 2"></td>
   </tr>
 </table>
 <table>
@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/12.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/15.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/7.jpg" alt="Image 2"></td>
   </tr>
 </table>
 <table>
