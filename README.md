@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/1.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/2.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/7.jpg" alt="Image 2"></td>
   </tr>
 </table>
 <table>
@@ -19,50 +19,20 @@
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/5.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/6.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/7.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/8.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/9.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/10.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/11.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/12.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/13.jpg" alt="Image 1"></td>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/14.jpg" alt="Image 2"></td>
   </tr>
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/15.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/16.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/12.jpg" alt="Image 1"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/15.jpg" alt="Image 2"></td>
   </tr>
 </table>
 <table>
   <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/17.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/18.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/19.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/20.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/19.jpg" alt="Image 2"></td>
   </tr>
 </table>
 
