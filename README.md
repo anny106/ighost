@@ -83,12 +83,6 @@ https://********.cc/file/e04e2e36ff288/%E5%A5%97%E5%9B%BE%E8%B5%84%E6%BA%90%E7%A
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/17.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/19.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/28.jpg" alt="Image 1"></td>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/29.jpg" alt="Image 2"></td>
   </tr>
