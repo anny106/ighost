@@ -11,8 +11,8 @@ https://********.cc/file/e04e2e36ff288/%E5%A5%97%E5%9B%BE%E8%B5%84%E6%BA%90%E7%A
 -----------------------------------------------------------------------------------
 <table>
   <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/%E5%BE%AE%E4%BF%A1%E4%BB%98%E6%AC%BE%E6%96%B9%E6%B3%951.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/%E5%BE%AE%E4%BF%A1%E4%BB%98%E6%AC%BE%E6%96%B9%E6%B3%952.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/01.jpg" alt="Image 1"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/02.jpg" alt="Image 2"></td>
   </tr>
 </table>
 <table>
