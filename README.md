@@ -12,7 +12,7 @@ asdfmnb1384@gmail.com<br>
 客服在3个工作日内回复，请查看自己的邮箱。<br>
 注意：如果3个工作日内【收件箱】没有收到，请查看【垃圾邮件】。
 -----------------------------------------------------------------------------------
-![image](https://github.com/anny106/ighost/blob/main/ImagesFolder/00000a1.jpg)
+![image](https://github.com/anny106/ighost/blob/main/ImagesFolder/00000a2.jpg)
 -----------------------------------------------------------------------------------
 <table>
   <tr>
