@@ -42,7 +42,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/0000011.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/0000012.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/0000012.JPG" alt="Image 2"></td>
   </tr>
 </table>
 <table>
