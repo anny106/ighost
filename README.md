@@ -17,18 +17,6 @@
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/31.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/32.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/33.jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/34.jpg" alt="Image 2"></td>
-  </tr>
-</table>
-<table>
-  <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/1.jpg" alt="Image 1"></td>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/15.jpg" alt="Image 2"></td>
   </tr>
