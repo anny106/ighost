@@ -54,7 +54,7 @@ asdfmnb1384@gmail.com,<br>
 <table>
   <tr>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/d%20(15).jpg" alt="Image 1"></td>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/d%20(16).jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/d010.jpg" alt="Image 2"></td>
   </tr>
 </table>
 <table>
