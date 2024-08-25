@@ -23,7 +23,7 @@ asdfmnb1384@gmail.com,<br>
 </table>
 <table>
   <tr>
-    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/d005.jpg" alt="Image 1"></td>
+    <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/d012.jpg" alt="Image 1"></td>
     <td><img src="https://github.com/anny106/ighost/blob/main/ImagesFolder/d%20(6).jpg" alt="Image 2"></td>
   </tr>
 </table>
